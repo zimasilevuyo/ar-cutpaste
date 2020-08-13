@@ -6,6 +6,7 @@ Although only Photoshop is being handled currently, it may handle different outp
 
 Demo & more infos: [Thread](https://twitter.com/cyrildiagne/status/1256916982764646402)
 
+Disclaimer: 
 ⚠️ This is a research prototype and not a consumer / photoshop user tool.
 
 ## Modules
